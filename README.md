@@ -18,3 +18,6 @@ Microsoft Excel
 2. Copiers is the most profitable product category 
 3. 2014 recorded the highest yearly sales 
 4. December is the peak revenue month
+
+
+Date:13/03/2026
